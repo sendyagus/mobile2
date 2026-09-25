@@ -6,7 +6,7 @@ final List<SnackModel> dummySnacks = [
     name: 'Keripik Kaca Pedas',
     price: 12000.0,
     description: 'Keripik renyah dengan bumbu cabai asli dan daun jeruk gurih.',
-    imageUrl: 'https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=500',
+    imageUrl: '../../../assets/images/keripik_kaca_pedas.jpg',
     stock: 25,
   ),
   SnackModel(

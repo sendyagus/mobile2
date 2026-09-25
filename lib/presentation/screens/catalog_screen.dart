@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../core/constants/app_colors.dart';
-import '../../data/datasources/dummy_snack.dart';
+import '../../data/datasource/dummy_snack.dart';
 import '../widgets/snack_card.dart';
 
 class CatalogScreen extends StatelessWidget {
