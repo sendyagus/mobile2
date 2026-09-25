@@ -6,7 +6,7 @@ final List<SnackModel> dummySnacks = [
     name: 'Keripik Kaca Pedas',
     price: 12000.0,
     description: 'Keripik renyah dengan bumbu cabai asli dan daun jeruk gurih.',
-    imageUrl: '../../../assets/images/keripik_kaca_pedas.jpg',
+    imageUrl: 'assets/images/keripik_kaca_pedas.jpg',
     stock: 25,
   ),
   SnackModel(
@@ -14,7 +14,7 @@ final List<SnackModel> dummySnacks = [
     name: 'Makaroni Ulir Balado',
     price: 10000.0,
     description: 'Makaroni goreng renyah bumbu balado spesial.',
-    imageUrl: 'https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=500',
+    imageUrl: 'assets/images/makaroni_ulir_balado.jpg',
     stock: 40,
   ),
   SnackModel(
@@ -22,7 +22,7 @@ final List<SnackModel> dummySnacks = [
     name: 'Basreng Extra Pedas',
     price: 15000.0,
     description: 'Bakso goreng irisan tipis dengan rempah pedas melimpah.',
-    imageUrl: 'https://images.unsplash.com/photo-1621996346565-e3d5d6281313?w=500',
+    imageUrl: 'assets/images/basreng_extra_pedas.jpg',
     stock: 12,
   ),
   SnackModel(
@@ -30,7 +30,7 @@ final List<SnackModel> dummySnacks = [
     name: 'Cilok Crispy Keju',
     price: 18000.0,
     description: 'Aci dicolok balut tepung panir dengan isian keju leleh.',
-    imageUrl: 'https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=500',
+    imageUrl: 'assets/images/cilok_crispy_keju.jpg',
     stock: 8,
   ),
 ];
